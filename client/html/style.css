@@ -1,0 +1,44 @@
+html {
+    color: #00ff00;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.container {
+    margin-left: 26%;
+}
+
+.content {
+    margin: 15% auto;
+    margin-left: 2%;
+    margin-right: 25px;
+    background-color: #535353c2;
+    border-radius: 15px;
+    padding: 25px;
+    width: 350px;
+    float: left;
+}
+
+img {
+    height: 496px;
+    border-radius: 15px;
+}
+
+p {
+    font-size: xx-large;
+    font-weight: 500;
+}
+
+.spawn {
+    font-size: large;
+    font-weight: 500;
+    color: black;
+    height: 50px;
+    width: 250px;
+    margin: 25px auto;
+    background-color: #00ff0086;
+    border-color: #373737c5;
+    border-width: 2px;
+    text-align: center;
+    border-radius: 100px;
+}
